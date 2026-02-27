@@ -7,4 +7,6 @@ C_H_tol<-PairingCHTol(H_Ltol,H_Rtol,C_Ltol,C_Rtol)
 ```
 *bbb*
 
+[readme](https://github.com/dyl029644/FM/blob/main/README.md)
+
 <img width="828" height="237" alt="image" src="https://github.com/user-attachments/assets/ca6d4d89-6f3b-4091-a74e-9abcae61a09d" />
